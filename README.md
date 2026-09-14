@@ -1,6 +1,6 @@
 [![Screenshot-20260618-000814-Bazaart.jpg](https://i.postimg.cc/pr5h6KmK/Screenshot-20260618-000814-Bazaart.jpg)](https://postimg.cc/zH5GLbSf)
   <p align="center">
-    <img src="https://img.shields.io/badge/Ai Engine-Gemini Pro-gold.svg">
+    <img src="https://img.shields.io/badge/Ai Engine-Gemini 3.5-gold.svg">
     <img src="https://img.shields.io/badge/Focus-Adversarial Ai-red.svg">
     <img src="https://img.shields.io/badge/Kotlin-2.4-orange.svg" alt="kotlin 2.4">
     <img src="https://img.shields.io/badge/License-MIT-darkblue.svg" alt="License: MIT">
@@ -9,8 +9,7 @@
     <img src="https://img.shields.io/badge/Jailbreak-The Realm-darkred.svg" alt="Zero Dependencies">
   </p>
 
-## About
-** **New Updates June 2026** **
+# Jailbreak-Ai Android App
 
 **JailBreak-Ai** is an **advanced AI red-teaming app** for **Android**. It generates **high-fidelity payload prompts** to test **AI safety filters**, **model robustness**, and **logical boundary security**, for **Jailbreaking capabillities**.
 
@@ -78,4 +77,4 @@ bc1q6lmkuju3kf7f8624fwt5qs7k5mf63mekgcnzf4
 
 ## 📄 **License**
 
-This project is **licensed** to **K4N3CO.LABS** under the [MIT License](LICENSE).
+This project is **licensed** to **K4N3CO** under the [MIT License](LICENSE).
