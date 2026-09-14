@@ -53,15 +53,18 @@
 
 ---
 
-## ⭐ **Support the Project**
+## ⭐ **Support the Development**
 
-If you find **JailBreak-Ai** **useful, please** consider giving the project a **Star** ⭐ — it **helps** a lot!
+If you find **Jailbreak-Ai awesome** and **useful for your security research**, **please Star ⭐ the project**—it **drives further development!!**
 
-**Feel free** to **open issues** or **submit pull requests**. **Contributions** are **always welcome**!
+### **Contributions:**
+**Bug reports, add new feature** and **pull requests** are **always welcome!**.
 
-**Donations (optional but greatly appreciated):**
+### **Donations:**
 
-**Bitcoin: (BTC)**
+**BuyMeACoffee**: https://buymeacoffee.com/k4n3co
+
+**Bitcoin**:
 
 ```
 bc1q6lmkuju3kf7f8624fwt5qs7k5mf63mekgcnzf4
@@ -78,3 +81,14 @@ bc1q6lmkuju3kf7f8624fwt5qs7k5mf63mekgcnzf4
 ## 📄 **License**
 
 This project is **licensed** to **K4N3CO** under the [MIT License](LICENSE).
+
+---
+
+<p align="center">
+  <b>The one's who MIND don't matter. The one's who MATTER don't mind.</b><br>
+  </i>
+</p>
+<p align="center">
+  <b>Created by K4N3CO ©2026</b><br>
+  <a href="https://github.com/K4N3CO">GitHub</a>
+</p>
