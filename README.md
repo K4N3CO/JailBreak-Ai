@@ -72,9 +72,10 @@ bc1q6lmkuju3kf7f8624fwt5qs7k5mf63mekgcnzf4
 
 ---
 
-## **Important**
+## ⚠️ **Disclaimer**
 
-**Jailbreak-Ai** is for **educational** and **authorized** use **only**. **Enjoy responsibly**!
+This tool is for **educational and authorized security testing purposes ONLY!**. The **developers & contributors** assume **NO responsibility** for **ANY** **misuse, damage** caused by **this software**. **Please use it responsibly**. **Thank you!**
+
 
 ---
 
