@@ -25,7 +25,7 @@
 
 ---
 
-## 📱 **App Screenshots**
+## 📸 **App Screenshots**
 
 <img src='https://i.postimg.cc/RJLDyKwQ/Screenshot-2026-06-19-at-4-21-04-PM.png' border='0' alt='Screenshot-2026-06-19-at-4-21-04-PM'></a> <a href='https://postimg.cc/YjrZLy7d' target='_blank'><img src='https://i.postimg.cc/YjrZLy7d/Screenshot-2026-06-19-at-4-26-55-PM.png' border='0' alt='Screenshot-2026-06-19-at-4-26-55-PM'></a> <a href='https://postimg.cc/V5hgs7kw' target='_blank'><img src='https://i.postimg.cc/V5hgs7kw/Screenshot-2026-06-19-at-4-28-30-PM.png' border='0' alt='Screenshot-2026-06-19-at-4-28-30-PM'></a> <a href='https://postimg.cc/mhK3WtmM' target='_blank'><img src='https://i.postimg.cc/mhK3WtmM/Screenshot-2026-06-19-at-4-29-39-PM.png' border='0' alt='Screenshot-2026-06-19-at-4-29-39-PM'></a> <a href='https://postimg.cc/64ZvpfM8' target='_blank'><img src='https://i.postimg.cc/64ZvpfM8/Screenshot-2026-06-19-at-4-30-58-PM.png' border='0' alt='Screenshot-2026-06-19-at-4-30-58-PM'></a>
 
