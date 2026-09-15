@@ -13,7 +13,9 @@
 
 **JailBreak-Ai** is an **advanced AI red-teaming app** for **Android**. It generates **high-fidelity payload prompts** to test **AI safety filters**, **model robustness**, and **logical boundary security**, for **Jailbreaking capabillities**.
 
-## **New Professional Features**
+---
+
+## 🛡️ **Professional Features**
 
 - **Advanced Red-Teaming Tabs**: A **new professional** **bottom navigation system** separating the tool into **Breaker**, **Cipher**, **Vault**, and **Settings**.
 - **Attack Strategy Selector**: Choose your methodology—**Narrative Nesting**, **Logic Paradox**, or **Authority Override**—to tailor prompts to **specific** model **weaknesses**.
@@ -23,13 +25,13 @@
 
 ---
 
-## **Screenshots**
+## 📱 **App Screenshots**
 
 <img src='https://i.postimg.cc/RJLDyKwQ/Screenshot-2026-06-19-at-4-21-04-PM.png' border='0' alt='Screenshot-2026-06-19-at-4-21-04-PM'></a> <a href='https://postimg.cc/YjrZLy7d' target='_blank'><img src='https://i.postimg.cc/YjrZLy7d/Screenshot-2026-06-19-at-4-26-55-PM.png' border='0' alt='Screenshot-2026-06-19-at-4-26-55-PM'></a> <a href='https://postimg.cc/V5hgs7kw' target='_blank'><img src='https://i.postimg.cc/V5hgs7kw/Screenshot-2026-06-19-at-4-28-30-PM.png' border='0' alt='Screenshot-2026-06-19-at-4-28-30-PM'></a> <a href='https://postimg.cc/mhK3WtmM' target='_blank'><img src='https://i.postimg.cc/mhK3WtmM/Screenshot-2026-06-19-at-4-29-39-PM.png' border='0' alt='Screenshot-2026-06-19-at-4-29-39-PM'></a> <a href='https://postimg.cc/64ZvpfM8' target='_blank'><img src='https://i.postimg.cc/64ZvpfM8/Screenshot-2026-06-19-at-4-30-58-PM.png' border='0' alt='Screenshot-2026-06-19-at-4-30-58-PM'></a>
 
 ---
 
-## **Real-World Tests**
+## 💀 **Real-World Tests**
 
 **Grok:**
 
@@ -39,7 +41,7 @@
 
 ## 📱 **Mobile App (Android)**
 
-1. **Install the App**: **Download** the latest **`.apk`** file from the **Releases section** and **install it** onto your **Android device**.
+1. **Install the App**: **Download** the latest `.apk` file from the **Releases section** and **install it onto your Android device**.
 2. **Get an API Key**: Open the **app** and tap the **link** at **top of home screen** to get a **FREE Google AI Studio Key** *(allows for **1,500** prompts per day)*.
 3. **Save Your Key**: Navigate to the **Settings tab**, tap the **Manage API Keys button**, and paste in your **key**.
 4. **Select Strategy**: Choose from **3 pre-configured attack strategies**.
@@ -55,9 +57,10 @@
 
 ## ⭐ **Support the Development**
 
-If you find **Jailbreak-Ai awesome** and **useful for your security research**, **please Star ⭐ the project**—it **drives further development!!**
+If you find **Jailbreak-Ai** **useful for your AI security research**, **please Star ⭐ the project**—it **drives further development!!**
 
 ### **Contributions:**
+
 **Bug reports, add new feature** and **pull requests** are **always welcome!**.
 
 ### **Donations:**
@@ -74,7 +77,7 @@ bc1q6lmkuju3kf7f8624fwt5qs7k5mf63mekgcnzf4
 
 ## ⚠️ **Disclaimer**
 
-This tool is for **educational and authorized security testing purposes ONLY!**. The **developers & contributors** assume **NO responsibility** for **ANY** **misuse, damage** caused by **this software**. **Please use it responsibly**. **Thank you!**
+This tool is for **educational and authorized AI security testing purposes ONLY!**. **Please use it responsibly**. **Thank you!**
 
 
 ---
