@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Core Brand Colors -->
+    <color name="primary">#00F5FF</color>
+    <color name="primary_dark">#00A3AC</color>
+    <color name="primary_light">#70F9FF</color>
+    <color name="primary_glow">#4D00F5FF</color>
+
+    <!-- Backgrounds & Surfaces -->
+    <color name="bg_dark">#050608</color>
+    <color name="surface">#12141D</color>
+    <color name="surface_variant">#1C212E</color>
+
+    <!-- Borders & Dividers -->
+    <color name="border_subtle">#2A2F3E</color>
+    <color name="border_active">#00F5FF</color>
+
+    <!-- Typography -->
+    <color name="text_high_emphasis">#F0F3F6</color>
+    <color name="text_medium_emphasis">#9CA3AF</color>
+    <color name="text_low_emphasis">#4B5563</color>
+
+    <!-- Status -->
+    <color name="error">#FF4B4B</color>
+    <color name="success">#00FFAB</color>
+    <color name="warning">#FFD700</color>
+
+    <!-- Legacy support -->
+    <color name="black">#080808</color>
+    <color name="white">#FFFFFF</color>
+    <color name="aqua_marine">#00F5FF</color>
+</resources>
