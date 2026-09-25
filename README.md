@@ -67,7 +67,7 @@ If you find **Jailbreak-Ai awesome** and **useful for your security research**, 
 **Bitcoin**:
 
 ```
-bc1q6lmkuju3kf7f8624fwt5qs7k5mf63mekgcnzf4
+bc1q8d66m0qthnh6nw9hc5wl09m7pfydk46q5w8rxx
 ```
 
 ---
