@@ -63,13 +63,7 @@ If you find **Jailbreak-Ai awesome** and **useful for your security research**, 
 
 ### **Donations:**
 
-**BuyMeACoffee**: https://buymeacoffee.com/k4n3co
-
-**Bitcoin**:
-
-```
-bc1q8d66m0qthnh6nw9hc5wl09m7pfydk46q5w8rxx
-```
+[<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black">](https://buymeacoffee.com/k4n3co)
 
 ---
 
@@ -87,10 +81,7 @@ This project is **licensed** to **K4N3CO** under the [MIT License](LICENSE).
 ---
 
 <p align="center">
-  <b>The one's who MIND don't matter. The one's who MATTER don't mind.</b><br>
-  </i>
-</p>
+<img src="https://img.shields.io/badge/The one's who MIND don't matter...-The one's who MATTER don't mind...-cyan?style=for-the-badge&logo=maserati&logoColor=black">
+<br>
 <p align="center">
-  <b>Created by K4N3CO ©2026</b><br>
-  <a href="https://github.com/K4N3CO">GitHub</a>
-</p>
+<img src="https://img.shields.io/badge/©2026-K4N3CO.LABS-darkgreen?style=for-the-badge&logo=magisk&logoColor=white">
